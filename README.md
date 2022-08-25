@@ -2,6 +2,6 @@
 
 ## 1. Analyzing taffic sources on website.
 
-## 1. Analyzing website performance.
+## 2. Analyzing website performance.
 
-## 1. Building conversion funnel.
+## 3. Building conversion funnel.
