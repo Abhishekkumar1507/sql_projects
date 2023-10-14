@@ -7,3 +7,5 @@
 ## 3. Building conversion funnel.
 
 ## 4. Spotify Data Analysis from Jan 2022 to May 2023
+
+## 5. EDA on Sakila DVD Rental Store
