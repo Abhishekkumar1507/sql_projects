@@ -1,11 +1,3 @@
-# sql_projects
-
-## 1. Analyzed taffic sources on website.
-
-## 2. Analyzed website performance.
-
-## 3. Build conversion funnel.
-
-## 4. Spotify Data Analysis from Jan 2022 to May 2023
-
-## 5. EDA on Sakila DVD Rental Store
+## SQL Exploratory Data Analysis
+1. **Spotify Data Analysis from Jan 2022 to May 2023**
+   [Spotify_Data_Analysis_2.pdf](https://github.com/Abhishekkumar1507/sql_projects/files/13114028/Spotify_Data_Analysis_2.pdf)
